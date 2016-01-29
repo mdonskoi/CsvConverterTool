@@ -94,8 +94,8 @@
     <counts>
       <entry feature="OpenInBrowser.Chrome" count="7" />
       <entry feature="OpenInBrowser.Firefox" count="1" />
-      <entry feature="OpenInBrowser.Safari" count="13" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="23" />
+      <entry feature="OpenInBrowser.Safari" count="14" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="26" />
       <entry feature="execute.Application.Debug" count="2" />
       <entry feature="execute.Application.Run" count="288" />
       <entry feature="ide.help.Colorblind_Settings" count="2" />
