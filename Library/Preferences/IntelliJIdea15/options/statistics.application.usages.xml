@@ -1,0 +1,125 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="ProgKievUa" values="Application" collectionTime="1453918773343" />
+      <project id="untitled" values="Application" collectionTime="1452635543552" />
+      <project id="IdeaProjects" values="Application" collectionTime="1448485046003" />
+      <project id="HW" values="Application" collectionTime="1448659841530" />
+      <project id="JaavaOOP" values="Application" collectionTime="1448827235871" />
+    </group>
+    <group name="Git">
+      <project id="ProgKievUa" values="config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,config.push.autoupdate.disabled,data.remotes.in.project.1" collectionTime="1453918773533" />
+      <project id="untitled" values="config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1452635543705" />
+      <project id="JavaOOP" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,data.remote.branches.count.0,data.remotes.in.project.0,data.local.branches.count.1,config.warn.about.detached.enabled,data.remotes.in.project.1,config.force.push.enabled,config.push.update.all.roots.enabled,data.local.branches.count.1,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1450629203506" />
+      <project id="src" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.detached.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1450628996548" />
+      <project id="WebTest" values="data.local.branches.count.0,config.push.update.all.roots.enabled,config.force.push.enabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.0,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.remotes.in.project.0,data.remotes.in.project.0,config.repo.sync.NOT_DECIDED,data.remote.branches.count.0" collectionTime="1454097860226" />
+    </group>
+    <group name="vcs">
+      <project id="src" values="Git" collectionTime="1450628996358" />
+      <project id="ProgKievUa" values="Git" collectionTime="1453918773340" />
+      <project id="HW" values="Git" collectionTime="1448659841529" />
+      <project id="JaavaOOP" values="Git" collectionTime="1448827235870" />
+      <project id="JavaOOP" values="Git" collectionTime="1450629203330" />
+      <project id="IdeaProjects" values="Git" collectionTime="1448485046001" />
+      <project id="WebTest" values="Git" collectionTime="1454097860158" />
+    </group>
+    <group name="frameworks">
+      <project id="WebTest" values="web" collectionTime="1454097860158" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="untitled2" values="ECMAScript 5.1" collectionTime="1448485490372" />
+      <project id="untitled1" values="ECMAScript 5.1" collectionTime="1448483763955" />
+      <project id="src" values="ECMAScript 5.1" collectionTime="1450628996550" />
+      <project id="ProgKievUa" values="ECMAScript 5.1" collectionTime="1453918774032" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1452635544216" />
+      <project id="HW" values="ECMAScript 5.1" collectionTime="1448659842147" />
+      <project id="JaavaOOP" values="ECMAScript 5.1" collectionTime="1448827236021" />
+      <project id="JavaOOP" values="ECMAScript 5.1" collectionTime="1450629203828" />
+      <project id="IdeaProjects" values="ECMAScript 5.1" collectionTime="1448485046636" />
+      <project id="WebTest" values="ECMAScript 5.1" collectionTime="1454097860234" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="WebTest" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1454097860158" />
+    </group>
+    <group name="language-level">
+      <project id="untitled2" values="JDK_1_8" collectionTime="1448485490279" />
+      <project id="untitled1" values="JDK_1_8" collectionTime="1448483763491" />
+      <project id="src" values="JDK_1_6" collectionTime="1450628996548" />
+      <project id="ProgKievUa" values="JDK_1_8" collectionTime="1453918773520" />
+      <project id="untitled" values="JDK_1_6" collectionTime="1452635543695" />
+      <project id="HW" values="JDK_1_8" collectionTime="1448659841705" />
+      <project id="JaavaOOP" values="JDK_1_8" collectionTime="1448827236012" />
+      <project id="JavaOOP" values="JDK_1_8" collectionTime="1450629203504" />
+      <project id="IdeaProjects" values="JDK_1_8" collectionTime="1448485046185" />
+      <project id="WebTest" values="JDK_1_6" collectionTime="1454097860226" />
+    </group>
+    <group name="file-type">
+      <project id="untitled2" values="UNKNOWN,IDEA_MODULE,XML,PLAIN_TEXT" collectionTime="1448485490273" />
+      <project id="untitled1" values="XML,UNKNOWN,PLAIN_TEXT,IDEA_MODULE" collectionTime="1448483763479" />
+      <project id="src" values="IDEA_MODULE,XML,PLAIN_TEXT,UNKNOWN,JAVA" collectionTime="1450628996542" />
+      <project id="ProgKievUa" values="JAVA,IDEA_MODULE,XML,UNKNOWN,PLAIN_TEXT,Git file" collectionTime="1453918773434" />
+      <project id="untitled" values="XML,JAVA,UNKNOWN,HTML,IDEA_MODULE" collectionTime="1452635543663" />
+      <project id="HW" values="IDEA_MODULE,JAVA,UNKNOWN,HTML,XML" collectionTime="1448659841682" />
+      <project id="JaavaOOP" values="UNKNOWN,IDEA_MODULE,PLAIN_TEXT,ARCHIVE,JAVA,XML" collectionTime="1448827235976" />
+      <project id="JavaOOP" values="Git file,IDEA_MODULE,PLAIN_TEXT,XML,UNKNOWN" collectionTime="1450629203479" />
+      <project id="IdeaProjects" values="IDEA_MODULE,XML,UNKNOWN,JAVA,PLAIN_TEXT" collectionTime="1448485046180" />
+      <project id="WebTest" values="XML,IDEA_MODULE,PLAIN_TEXT,Git file,JSP,UNKNOWN,HTML,JAVA,Images" collectionTime="1454097860222" />
+    </group>
+    <group name="module type">
+      <project id="untitled2" values="JAVA_MODULE" collectionTime="1448485490156" />
+      <project id="untitled1" values="JAVA_MODULE" collectionTime="1448483763296" />
+      <project id="src" values="JAVA_MODULE" collectionTime="1450628996358" />
+      <project id="ProgKievUa" values="JAVA_MODULE" collectionTime="1453918773342" />
+      <project id="untitled" values="JAVA_MODULE" collectionTime="1452635543551" />
+      <project id="HW" values="JAVA_MODULE" collectionTime="1448659841529" />
+      <project id="JaavaOOP" values="JAVA_MODULE" collectionTime="1448827235870" />
+      <project id="JavaOOP" values="JAVA_MODULE" collectionTime="1450629203330" />
+      <project id="IdeaProjects" values="JAVA_MODULE" collectionTime="1448485046002" />
+      <project id="WebTest" values="JAVA_MODULE" collectionTime="1454097860158" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="untitled2" values="Project,Project" collectionTime="1448485490372" />
+      <project id="untitled1" values="Project,Project" collectionTime="1448483763954" />
+      <project id="src" values="Project,Project" collectionTime="1450628996550" />
+      <project id="ProgKievUa" values="Project,Project" collectionTime="1453918774032" />
+      <project id="untitled" values="Project,Project" collectionTime="1452635544216" />
+      <project id="HW" values="Project,Project" collectionTime="1448659842147" />
+      <project id="JaavaOOP" values="Project,Project" collectionTime="1448827236021" />
+      <project id="JavaOOP" values="Project,Project" collectionTime="1450629203828" />
+      <project id="IdeaProjects" values="Project,Project" collectionTime="1448485046636" />
+      <project id="WebTest" values="Project,Project" collectionTime="1454097860234" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="OpenInBrowser.Chrome" count="7" />
+      <entry feature="OpenInBrowser.Firefox" count="1" />
+      <entry feature="OpenInBrowser.Safari" count="13" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="23" />
+      <entry feature="execute.Application.Debug" count="2" />
+      <entry feature="execute.Application.Run" count="288" />
+      <entry feature="ide.help.Colorblind_Settings" count="2" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Changelist_Conflicts" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Menus_and_Toolbars" count="2" />
+      <entry feature="ide.settings.Project_Structure" count="6" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ide.settings.Version_Control" count="4" />
+      <entry feature="ideaapp.started" count="72" />
+      <entry feature="terminal.mac" count="4" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA" count="8" />
+      <entry feature="uml.ShowDiagram.MODULES" count="1" />
+      <entry feature="uml.ShowDiagram.SpringLocalModels.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Import" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="9" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>

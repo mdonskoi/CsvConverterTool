@@ -1,0 +1,9 @@
+[user]
+	name = mikhail
+	email = m.donskoi9@gmail.com
+[filter "lfs"]
+	smudge = git-lfs smudge %f
+	required = true
+	clean = git-lfs clean %f
+[core]
+	autocrlf = input
