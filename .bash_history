@@ -147,3 +147,36 @@ export JAVA_HOME=$(/usr/libexec/java_home)
 /Library/Tomcat/bin/shutdown.sh
 /Library/Tomcat/bin/startup.sh
 /Library/Tomcat/bin/shutdown.sh
+sudo 
+1
+defaults write com.apple.finder AppleShowAllFiles -bool true
+cd/mikhail
+cd Users/mikhail
+1
+defaults write com.apple.finder AppleShowAllFiles -bool true
+cd
+ls
+/.git
+pwd
+ls
+killall finder
+killall Finder
+sudo reboot
+mvn
+sudo
+mvn -v
+echo $JAVA_HOME
+echo $JAVA_HOME
+export M2_HOME=/Users/mikhail/usr/local/apache-maven-3.3.9
+export M2=$M2_HOME/bin
+export PATH=$M2:$PATH
+
+mvn
+JAVA_HOME=$(/usr/libexec/java_home)
+export JAVA_HOME=/usr/java/jdk1.6.0_22
+mvn
+java version
+java -version
+export JAVA_HOME=/usr/java/jdk1.8.0_66
+mvn
+java -home

@@ -51,7 +51,7 @@
     <feature id="db.table.editor.wrapper" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="317" last-shown="0" last-used="1454097513357" shown-count="0" />
+    <feature id="editing.completion.basic" count="320" last-shown="0" last-used="1454345964993" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.second.smarttype.array.member" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -79,17 +79,17 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="1327" />
-      <option name="invocations" value="176" />
+      <option name="sparedCharacters" value="1341" />
+      <option name="invocations" value="179" />
       <option name="startDate" value="1448488800000" />
-      <option name="dayCount" value="13" />
-      <option name="lastDate" value="1454018400000" />
+      <option name="dayCount" value="14" />
+      <option name="lastDate" value="1454277600000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="24" />
+      <option name="invocations" value="25" />
       <option name="startDate" value="1448402400000" />
-      <option name="dayCount" value="13" />
-      <option name="lastDate" value="1453240800000" />
+      <option name="dayCount" value="14" />
+      <option name="lastDate" value="1454277600000" />
     </fixesStatsTag>
   </component>
 </application>
