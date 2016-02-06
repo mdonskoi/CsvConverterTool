@@ -35,10 +35,10 @@
     <location key="#Tomcat_Server.0.0.1440.900" x="578" y="313" />
     <location key="Github.ShareDialog.0.0.1440.900" x="511" y="375" />
     <location key="Github.UntrackedFilesDialog.0.0.1440.900" x="510" y="214" />
-    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1394" height="233" />
-    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1394" height="233" />
-    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1394" height="233" />
-    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1394" height="233" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1394" height="234" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1394" height="234" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1394" height="234" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1394" height="234" />
     <size key="#Compiler.0.0.1440.900" width="1436" height="401" />
     <size key="MergeDialog.0.0.1440.900" width="1310" height="779" />
     <size key="MultipleFileMergeDialog.0.0.1440.900" width="939" height="525" />
