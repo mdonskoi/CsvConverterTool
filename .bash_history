@@ -180,3 +180,92 @@ java -version
 export JAVA_HOME=/usr/java/jdk1.8.0_66
 mvn
 java -home
+export JAVA_HOME=$(/usr/libexec/java_home)
+source .bash_profile
+mvn --version
+echo $JAVA_HOME
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk
+mvn --version
+mvn
+curl http://download.nextag.com/apache/maven/maven-3/3.2.3/binaries/apache-maven-3.2.3-bin.tar.gz | tar pzxvf -
+pwd
+pwd/apache-maven-3.2.3
+pwd
+MAVEN_HOME=/Users/mikhail/apache-maven-3.2.3
+MAVEN_HOME=/Users/mikhail/usr/local/apache-maven-3.3.9
+mvn 
+export M2_HOME=/Users/mikhail/apache-maven-3.3.9
+export M2=$M2_HOME/bin
+export PATH=$M2:$PATH
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk
+mvn
+export JAVA_HOME=/mikhail/java/jdk1.8.0_66.jdk
+mvn
+echo JAVA_HOME
+export JAVA_HOME=$(/usr/libexec/java_home)
+mvn
+mvn -version
+mvn --version
+mvn --version
+mysql
+mysql -version
+sudo su -
+pwd
+shell> groupadd mysql
+groupadd mysql
+shell> groupadd -mysql
+yum search libaio  # search for info
+shell> yum search libaio  # search for info
+-bash yum search libaio  # search for info
+apt-cache search libaio # search for info
+mvn
+reboot
+sudo reboot
+export JAVA_HOME=/usr/java/jdk1.8.0_66
+mvn
+echo JAVA_HOME
+sudo su -
+mvn
+/usr/local/mysql/bin/mysql -uroot
+sudo /usr/local/mysql/bin/mysql -uroot
+/usr/local/mysql/bin/mysql -uroot
+mysql-client
+mvn
+cd /usr/local/mysql/bin
+./mysqladmin -u root password 'password'
+sudo
+sudo ./mysqladmin -u root password 'password'
+sudo /usr/local/mysql/support-files/mysql.server start
+\й
+\q
+/usr/local/mysql/bin/mysql -v
+export PATH="/usr/local/mysql/bin:$PATH"
+cd ~
+nano .bash_profile
+mysql -v
+/usr/local/mysql/bin/mysqladmin -u root password 'coolers'
+/usr/local/mysql/bin/mysqladmin -u root -p password 'coolers' 'coolers'
+mysql -v
+/usr/local/mysql/bin/mysql -v
+/usr/local/mysql/bin/mysqladmin -u root -p password 'o!+)r<a!<7kD' 'coolers'
+mvn
+hostname
+hostname -v
+sudo apt-get purge maven maven2 maven3
+sudo brew purge maven maven2 maven3
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew help
+sudo apt-get purge maven maven2 maven3
+sudo brew purge maven maven2 maven3
+sudo brew delete maven maven2 maven3
+sudo brew remove maven maven2 maven3
+brew install maven
+brew install maven3
+brew install homebrew/versions/maven30
+sudo update
+mvn
+mvn -e
+mvn -X
+mvn -v
+sudo reboot
+mvn

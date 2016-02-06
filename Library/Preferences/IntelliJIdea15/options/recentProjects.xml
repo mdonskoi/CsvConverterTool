@@ -2,8 +2,13 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/IdeaProjects/ChatClient/ChatClient" />
+        <option value="$USER_HOME$/IdeaProjects/ChatClient/MavenProject" />
+        <option value="$USER_HOME$/IdeaProjects/ChatEE2/ChatClient" />
+        <option value="$USER_HOME$/IdeaProjects/ChatEE2/ChatServer" />
         <option value="$USER_HOME$/IdeaProjects/WebTest" />
+        <option value="$USER_HOME$/IdeaProjects/ChatClient/ChatClient" />
+        <option value="$USER_HOME$/IdeaProjects/ChatClient" />
+        <option value="$USER_HOME$/IdeaProjects/ChatClient/ChatServer" />
         <option value="$USER_HOME$/IdeaProjects/ProgKievUa" />
         <option value="$USER_HOME$/IdeaProjects/JaavaOOP" />
         <option value="$USER_HOME$/IdeaProjects/HW" />
@@ -11,7 +16,7 @@
         <option value="$USER_HOME$/IdeaProjects/untitled1" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/IdeaProjects/ChatClient/ChatClient" />
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects/ChatClient/MavenProject" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/IdeaProjects">
@@ -31,7 +36,7 @@
               <option name="build" value="IU-143.1821" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1454349183407" />
+              <option name="projectOpenTimestamp" value="1454450350427" />
               <option name="buildTimestamp" value="1453154400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -42,7 +47,29 @@
               <option name="build" value="IU-143.1821" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1454448565332" />
+              <option name="projectOpenTimestamp" value="1454450491040" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ChatClient/ChatServer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454449203404" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ChatClient/MavenProject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454785435869" />
               <option name="buildTimestamp" value="1453154400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -58,6 +85,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ChatEE2/ChatClient">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454518919556" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/ChatEE2/ChatJEE/ChatClient">
           <value>
             <RecentProjectMetaInfo>
@@ -65,6 +103,17 @@
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1454348936710" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ChatEE2/ChatServer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1454518826267" />
               <option name="buildTimestamp" value="1453154400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -152,7 +201,7 @@
               <option name="build" value="IU-143.1821" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1454349752271" />
+              <option name="projectOpenTimestamp" value="1454450823737" />
               <option name="buildTimestamp" value="1453154400000" />
             </RecentProjectMetaInfo>
           </value>
