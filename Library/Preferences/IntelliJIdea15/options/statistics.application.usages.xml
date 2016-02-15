@@ -3,130 +3,166 @@
     <group name="JavaScript versions">
       <project id="JavaOOP" values="ECMAScript 5.1" collectionTime="1450629203828" />
       <project id="IdeaProjects" values="ECMAScript 5.1" collectionTime="1448485046636" />
+      <project id="spring22" values="ECMAScript 5.1" collectionTime="1455129944286" />
       <project id="HcatServer" values="ECMAScript 5.1" collectionTime="1454348716850" />
       <project id="JaavaOOP" values="ECMAScript 5.1" collectionTime="1448827236021" />
       <project id="HW" values="ECMAScript 5.1" collectionTime="1448659842147" />
+      <project id="SpringExample" values="ECMAScript 5.1" collectionTime="1455125952599" />
       <project id="ProgKievUa" values="ECMAScript 5.1" collectionTime="1453918774032" />
-      <project id="ChatServer" values="ECMAScript 5.1" collectionTime="1454518919547" />
-      <project id="ChatClient" values="ECMAScript 5.1" collectionTime="1454518926079" />
+      <project id="ChatServer" values="ECMAScript 5.1" collectionTime="1454950632468" />
+      <project id="ChatClient" values="ECMAScript 5.1" collectionTime="1454786062052" />
+      <project id="jpa22" values="ECMAScript 5.1" collectionTime="1455129445685" />
+      <project id="spring" values="ECMAScript 5.1" collectionTime="1455140491557" />
       <project id="untitled2" values="ECMAScript 5.1" collectionTime="1448485490372" />
       <project id="untitled1" values="ECMAScript 5.1" collectionTime="1448483763955" />
-      <project id="WebTest" values="ECMAScript 5.1" collectionTime="1454450866703" />
-      <project id="MavenProject" values="ECMAScript 5.1" collectionTime="1454785822989" />
+      <project id="WebTest" values="ECMAScript 5.1" collectionTime="1455570036372" />
+      <project id="MavenProject" values="ECMAScript 5.1" collectionTime="1455570837543" />
       <project id="src" values="ECMAScript 5.1" collectionTime="1454351370191" />
-      <project id="untitled" values="ECMAScript 5.1" collectionTime="1452635544216" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1455569979202" />
     </group>
     <group name="module type">
       <project id="JavaOOP" values="JAVA_MODULE" collectionTime="1450629203330" />
       <project id="IdeaProjects" values="JAVA_MODULE" collectionTime="1448485046002" />
+      <project id="spring22" values="JAVA_MODULE" collectionTime="1455129941807" />
       <project id="HcatServer" values="JAVA_MODULE" collectionTime="1454348716774" />
       <project id="JaavaOOP" values="JAVA_MODULE" collectionTime="1448827235870" />
       <project id="HW" values="JAVA_MODULE" collectionTime="1448659841529" />
+      <project id="SpringExample" values="JAVA_MODULE" collectionTime="1455125951834" />
       <project id="ProgKievUa" values="JAVA_MODULE" collectionTime="1453918773342" />
-      <project id="ChatServer" values="JAVA_MODULE" collectionTime="1454518918923" />
-      <project id="ChatClient" values="JAVA_MODULE" collectionTime="1454518926010" />
+      <project id="ChatServer" values="JAVA_MODULE" collectionTime="1454950631797" />
+      <project id="ChatClient" values="JAVA_MODULE" collectionTime="1454786061995" />
+      <project id="jpa22" values="JAVA_MODULE" collectionTime="1455129445624" />
+      <project id="spring" values="JAVA_MODULE" collectionTime="1455140490776" />
       <project id="untitled2" values="JAVA_MODULE" collectionTime="1448485490156" />
       <project id="untitled1" values="JAVA_MODULE" collectionTime="1448483763296" />
-      <project id="WebTest" values="JAVA_MODULE" collectionTime="1454450865931" />
-      <project id="MavenProject" values="JAVA_MODULE" collectionTime="1454785822811" />
+      <project id="WebTest" values="JAVA_MODULE" collectionTime="1455570036262" />
+      <project id="MavenProject" values="JAVA_MODULE" collectionTime="1455570837022" />
       <project id="src" values="JAVA_MODULE" collectionTime="1454351369810" />
-      <project id="untitled" values="JAVA_MODULE" collectionTime="1452635543551" />
+      <project id="untitled" values="JAVA_MODULE" collectionTime="1455569978770" />
     </group>
     <group name="vcs">
-      <project id="ChatServer" values="Git" collectionTime="1454518918922" />
-      <project id="MavenProject" values="Git" collectionTime="1454785822810" />
-      <project id="HcatServer" values="Git" collectionTime="1454348716773" />
-      <project id="src" values="Git" collectionTime="1454351369809" />
-      <project id="ProgKievUa" values="Git" collectionTime="1453918773340" />
-      <project id="HW" values="Git" collectionTime="1448659841529" />
-      <project id="JaavaOOP" values="Git" collectionTime="1448827235870" />
-      <project id="ChatClient" values="Git" collectionTime="1454518926010" />
       <project id="JavaOOP" values="Git" collectionTime="1450629203330" />
       <project id="IdeaProjects" values="Git" collectionTime="1448485046001" />
-      <project id="WebTest" values="Git" collectionTime="1454450865930" />
+      <project id="spring22" values="Git" collectionTime="1455129941807" />
+      <project id="HcatServer" values="Git" collectionTime="1454348716773" />
+      <project id="JaavaOOP" values="Git" collectionTime="1448827235870" />
+      <project id="src" values="Git" collectionTime="1454351369809" />
+      <project id="HW" values="Git" collectionTime="1448659841529" />
+      <project id="SpringExample" values="Git" collectionTime="1455125951834" />
+      <project id="ChatServer" values="Git" collectionTime="1454950631797" />
+      <project id="ChatClient" values="Git" collectionTime="1454786061995" />
+      <project id="spring" values="Git" collectionTime="1455140490775" />
+      <project id="ProgKievUa" values="Git" collectionTime="1453918773340" />
+      <project id="WebTest" values="Git" collectionTime="1455570036262" />
+      <project id="MavenProject" values="Git" collectionTime="1455570837021" />
+      <project id="jpa22" values="Git" collectionTime="1455129445624" />
+      <project id="untitled" values="Git" collectionTime="1455569978769" />
     </group>
     <group name="run-configuration-type">
+      <project id="ChatServer" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1454950631798" />
+      <project id="spring" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1455140490777" />
       <project id="HcatServer" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1454348716774" />
-      <project id="WebTest" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1454450865932" />
-      <project id="ChatServer" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1454518918924" />
+      <project id="spring22" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1455129941808" />
+      <project id="WebTest" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1455570036262" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="untitled" values="Application" collectionTime="1452635543552" />
-      <project id="MavenProject" values="Application" collectionTime="1454785822812" />
+      <project id="MavenProject" values="Application" collectionTime="1455570837023" />
+      <project id="jpa22" values="Application" collectionTime="1455129445624" />
       <project id="src" values="Application" collectionTime="1454351369811" />
       <project id="ProgKievUa" values="Application" collectionTime="1453918773343" />
+      <project id="IdeaProjects" values="Application" collectionTime="1448485046003" />
       <project id="HW" values="Application" collectionTime="1448659841530" />
       <project id="JaavaOOP" values="Application" collectionTime="1448827235871" />
-      <project id="ChatClient" values="Application" collectionTime="1454518926010" />
-      <project id="IdeaProjects" values="Application" collectionTime="1448485046003" />
+      <project id="ChatClient" values="Application" collectionTime="1454786061995" />
+      <project id="untitled" values="Application" collectionTime="1455569978771" />
     </group>
     <group name="file-type">
-      <project id="JavaOOP" values="UNKNOWN,Git file,PLAIN_TEXT,XML,IDEA_MODULE" collectionTime="1450629203479" />
-      <project id="IdeaProjects" values="IDEA_MODULE,JAVA,PLAIN_TEXT,XML,UNKNOWN" collectionTime="1448485046180" />
-      <project id="HcatServer" values="JSP,UNKNOWN,PLAIN_TEXT,IDEA_MODULE,XML,JAVA" collectionTime="1454348716841" />
-      <project id="JaavaOOP" values="IDEA_MODULE,UNKNOWN,ARCHIVE,XML,PLAIN_TEXT,JAVA" collectionTime="1448827235976" />
-      <project id="HW" values="JAVA,IDEA_MODULE,XML,HTML,UNKNOWN" collectionTime="1448659841682" />
-      <project id="ProgKievUa" values="XML,JAVA,UNKNOWN,Git file,IDEA_MODULE,PLAIN_TEXT" collectionTime="1453918773434" />
-      <project id="ChatServer" values="IDEA_MODULE,JAVA,PLAIN_TEXT,HTML,XML,UNKNOWN,JSP" collectionTime="1454518919022" />
-      <project id="ChatClient" values="IDEA_MODULE,UNKNOWN,PLAIN_TEXT,XML,JAVA" collectionTime="1454518926070" />
-      <project id="untitled2" values="IDEA_MODULE,UNKNOWN,PLAIN_TEXT,XML" collectionTime="1448485490273" />
-      <project id="untitled1" values="UNKNOWN,XML,IDEA_MODULE,PLAIN_TEXT" collectionTime="1448483763479" />
-      <project id="WebTest" values="JAVA,IDEA_MODULE,Git file,HTML,UNKNOWN,Images,PLAIN_TEXT,XML,JSP" collectionTime="1454450866190" />
-      <project id="MavenProject" values="PLAIN_TEXT,UNKNOWN,IDEA_MODULE,JAVA,XML" collectionTime="1454785822935" />
-      <project id="src" values="UNKNOWN,HTML,JAVA,IDEA_MODULE,XML" collectionTime="1454351369988" />
-      <project id="untitled" values="UNKNOWN,HTML,IDEA_MODULE,XML,JAVA" collectionTime="1452635543663" />
+      <project id="JavaOOP" values="Git file,XML,UNKNOWN,IDEA_MODULE,PLAIN_TEXT" collectionTime="1450629203479" />
+      <project id="IdeaProjects" values="PLAIN_TEXT,UNKNOWN,XML,JAVA,IDEA_MODULE" collectionTime="1448485046180" />
+      <project id="spring22" values="UNKNOWN,IDEA_MODULE,PLAIN_TEXT,XML,JAVA,JSP" collectionTime="1455129941995" />
+      <project id="HcatServer" values="JSP,XML,JAVA,PLAIN_TEXT,IDEA_MODULE,UNKNOWN" collectionTime="1454348716841" />
+      <project id="JaavaOOP" values="PLAIN_TEXT,UNKNOWN,IDEA_MODULE,JAVA,XML,ARCHIVE" collectionTime="1448827235976" />
+      <project id="HW" values="JAVA,XML,HTML,IDEA_MODULE,UNKNOWN" collectionTime="1448659841682" />
+      <project id="SpringExample" values="PLAIN_TEXT,Properties,HTML,XML,IDEA_MODULE,JAVA,UNKNOWN" collectionTime="1455125952058" />
+      <project id="ProgKievUa" values="JAVA,PLAIN_TEXT,Git file,IDEA_MODULE,XML,UNKNOWN" collectionTime="1453918773434" />
+      <project id="ChatServer" values="PLAIN_TEXT,JAVA,XML,UNKNOWN,HTML,JSP,IDEA_MODULE" collectionTime="1454950631994" />
+      <project id="ChatClient" values="IDEA_MODULE,PLAIN_TEXT,JAVA,UNKNOWN,XML" collectionTime="1454786062048" />
+      <project id="jpa22" values="JAVA,PLAIN_TEXT,XML,UNKNOWN,IDEA_MODULE" collectionTime="1455129445663" />
+      <project id="spring" values="XML,JAVA,PLAIN_TEXT,UNKNOWN,IDEA_MODULE,JSP" collectionTime="1455140490932" />
+      <project id="untitled2" values="XML,PLAIN_TEXT,UNKNOWN,IDEA_MODULE" collectionTime="1448485490273" />
+      <project id="untitled1" values="PLAIN_TEXT,IDEA_MODULE,UNKNOWN,XML" collectionTime="1448483763479" />
+      <project id="WebTest" values="Images,Git file,HTML,JAVA,IDEA_MODULE,PLAIN_TEXT,XML,UNKNOWN,JSP" collectionTime="1455570036340" />
+      <project id="MavenProject" values="XML,UNKNOWN,PLAIN_TEXT,JAVA,IDEA_MODULE" collectionTime="1455570837321" />
+      <project id="src" values="JAVA,UNKNOWN,HTML,IDEA_MODULE,XML" collectionTime="1454351369988" />
+      <project id="untitled" values="XML,IDEA_MODULE,JAVA,UNKNOWN,HTML" collectionTime="1455569979029" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="JavaOOP" values="Project,Project" collectionTime="1450629203828" />
       <project id="IdeaProjects" values="Project,Project" collectionTime="1448485046636" />
+      <project id="spring22" values="Project,Project" collectionTime="1455129944286" />
       <project id="HcatServer" values="Project,Project" collectionTime="1454348716850" />
       <project id="JaavaOOP" values="Project,Project" collectionTime="1448827236021" />
       <project id="HW" values="Project,Project" collectionTime="1448659842147" />
+      <project id="SpringExample" values="Project,Project" collectionTime="1455125952599" />
       <project id="ProgKievUa" values="Project,Project" collectionTime="1453918774032" />
-      <project id="ChatServer" values="Project,Project" collectionTime="1454518919547" />
-      <project id="ChatClient" values="Project,Project" collectionTime="1454518926079" />
+      <project id="ChatServer" values="Project,Project" collectionTime="1454950632468" />
+      <project id="ChatClient" values="Project,Project" collectionTime="1454786062052" />
+      <project id="jpa22" values="Project,Project" collectionTime="1455129445685" />
+      <project id="spring" values="Project,Project" collectionTime="1455140491557" />
       <project id="untitled2" values="Project,Project" collectionTime="1448485490372" />
       <project id="untitled1" values="Project,Project" collectionTime="1448483763954" />
-      <project id="WebTest" values="Project,Project" collectionTime="1454450866703" />
-      <project id="MavenProject" values="Project,Project" collectionTime="1454785822989" />
+      <project id="WebTest" values="Project,Project" collectionTime="1455570036372" />
+      <project id="MavenProject" values="Project,Project" collectionTime="1455570837543" />
       <project id="src" values="Project,Project" collectionTime="1454351370191" />
-      <project id="untitled" values="Project,Project" collectionTime="1452635544216" />
+      <project id="untitled" values="Project,Project" collectionTime="1455569979202" />
     </group>
     <group name="Git">
-      <project id="ChatServer" values="config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.local.branches.count.1,data.remote.branches.count.0,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.0,config.ssh.enabled" collectionTime="1454518919070" />
-      <project id="MavenProject" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.push.autoupdate.disabled,data.remote.branches.count.1,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH,config.force.push.enabled" collectionTime="1454785822977" />
-      <project id="src" values="config.ssh.enabled,data.remotes.in.project.0,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.remote.branches.count.0,config.force.push.enabled,data.local.branches.count.1,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1454351370007" />
-      <project id="ProgKievUa" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,data.local.branches.count.1,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.remote.branches.count.1,data.remotes.in.project.1" collectionTime="1453918773533" />
-      <project id="HcatServer" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.0,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.0,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1454348716846" />
-      <project id="ChatClient" values="config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,data.local.branches.count.1,data.remotes.in.project.0,config.ssh.enabled,config.warn.about.detached.enabled,data.remote.branches.count.0,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1454518926074" />
-      <project id="JavaOOP" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.push.update.all.roots.enabled,data.remotes.in.project.0,data.remote.branches.count.0,data.remotes.in.project.1,config.push.autoupdate.disabled,data.local.branches.count.1,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH,data.local.branches.count.1" collectionTime="1450629203506" />
-      <project id="untitled" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1452635543705" />
-      <project id="WebTest" values="config.save.policy.STASH,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.force.push.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.remotes.in.project.0,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,data.remote.branches.count.0,config.push.update.all.roots.enabled" collectionTime="1454450866219" />
+      <project id="ChatServer" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.2+,config.warn.about.crlf.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,data.remote.branches.count.2+" collectionTime="1454950632055" />
+      <project id="SpringExample" values="data.remotes.in.project.2+,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.remote.branches.count.2+,data.local.branches.count.1,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.save.policy.STASH" collectionTime="1455125952120" />
+      <project id="MavenProject" values="data.remotes.in.project.2+,config.push.update.all.roots.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.autoupdate.disabled,data.local.branches.count.1,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled" collectionTime="1455570837343" />
+      <project id="jpa22" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.remotes.in.project.2+,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.save.policy.STASH" collectionTime="1455129445683" />
+      <project id="src" values="config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.remote.branches.count.0,config.push.autoupdate.disabled,data.remotes.in.project.0,config.warn.about.detached.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1454351370007" />
+      <project id="ProgKievUa" values="config.warn.about.crlf.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,data.remote.branches.count.1,data.local.branches.count.1,config.ssh.enabled" collectionTime="1453918773533" />
+      <project id="spring22" values="data.remotes.in.project.2+,data.local.branches.count.1,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1455129942039" />
+      <project id="HcatServer" values="data.remote.branches.count.0,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.remotes.in.project.0,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.local.branches.count.1,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH" collectionTime="1454348716846" />
+      <project id="ChatClient" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.ssh.enabled,config.save.policy.STASH,data.local.branches.count.1,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.remotes.in.project.2+" collectionTime="1454786062051" />
+      <project id="spring" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.force.push.enabled,data.remotes.in.project.2+,data.local.branches.count.1,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.save.policy.STASH,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1455140490988" />
+      <project id="JavaOOP" values="config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.force.push.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,data.remote.branches.count.1,data.remotes.in.project.0,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.0" collectionTime="1450629203506" />
+      <project id="untitled" values="config.repo.sync.NOT_DECIDED,data.remotes.in.project.2+,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.push.autoupdate.disabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH" collectionTime="1455569979056" />
+      <project id="WebTest" values="config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.2+,data.remotes.in.project.1,config.ssh.enabled,config.save.policy.STASH,data.remote.branches.count.1,data.remotes.in.project.2+,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1455570036360" />
     </group>
     <group name="libraries">
-      <project id="ChatServer" values="repository" collectionTime="1454518919040" />
-      <project id="ChatClient" values="repository" collectionTime="1454518926070" />
+      <project id="ChatServer" values="repository" collectionTime="1454950632016" />
+      <project id="jpa22" values="TransactionJavaee,hibernate,repository" collectionTime="1455129445680" />
+      <project id="spring" values="spring-mvc,spring" collectionTime="1455140490959" />
+      <project id="ChatClient" values="repository" collectionTime="1454786062048" />
     </group>
     <group name="frameworks">
+      <project id="ChatServer" values="web" collectionTime="1454950631797" />
+      <project id="jpa22" values="jpa" collectionTime="1455129445624" />
+      <project id="SpringExample" values="web" collectionTime="1455125951834" />
       <project id="HcatServer" values="web" collectionTime="1454348716774" />
-      <project id="WebTest" values="web" collectionTime="1454450865931" />
-      <project id="ChatServer" values="web" collectionTime="1454518918922" />
+      <project id="WebTest" values="web" collectionTime="1455570036262" />
     </group>
     <group name="language-level">
       <project id="JavaOOP" values="JDK_1_8" collectionTime="1450629203504" />
       <project id="IdeaProjects" values="JDK_1_8" collectionTime="1448485046185" />
+      <project id="spring22" values="JDK_1_6,JDK_1_5" collectionTime="1455129942016" />
       <project id="HcatServer" values="JDK_1_6" collectionTime="1454348716846" />
       <project id="JaavaOOP" values="JDK_1_8" collectionTime="1448827236012" />
       <project id="HW" values="JDK_1_8" collectionTime="1448659841705" />
+      <project id="SpringExample" values="JDK_1_5,JDK_1_6" collectionTime="1455125952090" />
       <project id="ProgKievUa" values="JDK_1_8" collectionTime="1453918773520" />
-      <project id="ChatServer" values="JDK_1_6" collectionTime="1454518919053" />
-      <project id="ChatClient" values="JDK_1_6" collectionTime="1454518926074" />
+      <project id="ChatServer" values="JDK_1_6" collectionTime="1454950632033" />
+      <project id="ChatClient" values="JDK_1_6" collectionTime="1454786062051" />
+      <project id="jpa22" values="JDK_1_6,JDK_1_7" collectionTime="1455129445683" />
+      <project id="spring" values="JDK_1_6,JDK_1_7" collectionTime="1455140490979" />
       <project id="untitled2" values="JDK_1_8" collectionTime="1448485490279" />
       <project id="untitled1" values="JDK_1_8" collectionTime="1448483763491" />
-      <project id="WebTest" values="JDK_1_6" collectionTime="1454450866213" />
-      <project id="MavenProject" values="JDK_1_7,JDK_1_6" collectionTime="1454785822970" />
+      <project id="WebTest" values="JDK_1_6" collectionTime="1455570036360" />
+      <project id="MavenProject" values="JDK_1_7,JDK_1_5" collectionTime="1455570837340" />
       <project id="src" values="JDK_1_6" collectionTime="1454351370004" />
-      <project id="untitled" values="JDK_1_6" collectionTime="1452635543695" />
+      <project id="untitled" values="JDK_1_6" collectionTime="1455569979048" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -134,20 +170,21 @@
       <entry feature="OpenInBrowser.Chrome" count="7" />
       <entry feature="OpenInBrowser.Firefox" count="1" />
       <entry feature="OpenInBrowser.Safari" count="14" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="36" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="58" />
       <entry feature="execute.Application.Debug" count="2" />
-      <entry feature="execute.Application.Run" count="312" />
+      <entry feature="execute.Application.Run" count="367" />
       <entry feature="ide.help.Colorblind_Settings" count="2" />
       <entry feature="ide.settings.Appearance" count="2" />
       <entry feature="ide.settings.Changelist_Conflicts" count="1" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
-      <entry feature="ide.settings.Java_Compiler" count="4" />
+      <entry feature="ide.settings.Java_Compiler" count="13" />
       <entry feature="ide.settings.Menus_and_Toolbars" count="2" />
-      <entry feature="ide.settings.Project_Structure" count="14" />
+      <entry feature="ide.settings.Project_Structure" count="28" />
       <entry feature="ide.settings.Tomcat_Server" count="1" />
       <entry feature="ide.settings.Version_Control" count="4" />
-      <entry feature="ideaapp.started" count="89" />
-      <entry feature="terminal.mac" count="5" />
+      <entry feature="ideaapp.started" count="110" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="4" />
+      <entry feature="terminal.mac" count="6" />
       <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
       <entry feature="uml.ShowDiagram.JAVA" count="8" />
       <entry feature="uml.ShowDiagram.MODULES" count="1" />
@@ -157,7 +194,7 @@
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="11" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="9" />
       <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
-      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="13" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="15" />
       <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
       <entry feature="welcome.screen.null" count="2" />
     </counts>

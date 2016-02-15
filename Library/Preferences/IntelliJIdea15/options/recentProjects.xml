@@ -2,12 +2,18 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/IdeaProjects/spring" />
+        <option value="$USER_HOME$/IdeaProjects/MavenProject" />
         <option value="$USER_HOME$/IdeaProjects/WebTest" />
+        <option value="$USER_HOME$/IdeaProjects/ChatClient/untitled" />
+        <option value="$USER_HOME$/IdeaProjects/ChatClient/spring" />
+        <option value="$USER_HOME$/IdeaProjects/ChatClient/spring22" />
+        <option value="$USER_HOME$/IdeaProjects/ChatClient/jpa22" />
+        <option value="$USER_HOME$/IdeaProjects/ChatClient/SpringExample" />
+        <option value="$USER_HOME$/IdeaProjects/ChatEE2/ChatServer" />
         <option value="$USER_HOME$/IdeaProjects/ChatClient/MavenProject" />
         <option value="$USER_HOME$/IdeaProjects/ChatEE2/ChatClient" />
-        <option value="$USER_HOME$/IdeaProjects/ChatEE2/ChatServer" />
         <option value="$USER_HOME$/IdeaProjects/ChatClient/ChatClient" />
-        <option value="$USER_HOME$/IdeaProjects/ChatClient" />
         <option value="$USER_HOME$/IdeaProjects/ChatClient/ChatServer" />
         <option value="$USER_HOME$/IdeaProjects/ProgKievUa" />
         <option value="$USER_HOME$/IdeaProjects/JaavaOOP" />
@@ -16,7 +22,7 @@
         <option value="$USER_HOME$/IdeaProjects/untitled1" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/IdeaProjects/WebTest" />
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects/spring" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/IdeaProjects">
@@ -69,7 +75,51 @@
               <option name="build" value="IU-143.1821" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1454785435869" />
+              <option name="projectOpenTimestamp" value="1454883555754" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ChatClient/SpringExample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455125931274" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ChatClient/jpa22">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455129443867" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ChatClient/spring">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455140204262" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ChatClient/spring22">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455129484160" />
               <option name="buildTimestamp" value="1453154400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -85,13 +135,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ChatClient/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455569887995" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/ChatEE2/ChatClient">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-143.1821" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1454518919556" />
+              <option name="projectOpenTimestamp" value="1454786027159" />
               <option name="buildTimestamp" value="1453154400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -113,7 +174,7 @@
               <option name="build" value="IU-143.1821" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1454518826267" />
+              <option name="projectOpenTimestamp" value="1454950490959" />
               <option name="buildTimestamp" value="1453154400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -162,6 +223,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/IdeaProjects/MavenProject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455570791058" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/ProgKievUa">
           <value>
             <RecentProjectMetaInfo>
@@ -201,7 +273,18 @@
               <option name="build" value="IU-143.1821" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1454785829815" />
+              <option name="projectOpenTimestamp" value="1455569991973" />
+              <option name="buildTimestamp" value="1453154400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/spring">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455570838220" />
               <option name="buildTimestamp" value="1453154400000" />
             </RecentProjectMetaInfo>
           </value>

@@ -269,3 +269,76 @@ mvn -X
 mvn -v
 sudo reboot
 mvn
+mysql
+PATH=/usr/share/maven/bin:$PATH
+nano .bash_profile
+mvn
+mvn -X
+mvn -v
+nano .bash_profile
+mvn -v
+mvn 
+update
+sudo apt-get update
+sudo upgrade
+sudo update
+mvn
+mysql
+wordpress
+mvn
+sql
+create database.a;
+sudo
+sudo sqlctl stop
+sudo sql> stop
+mysql -u root -p
+sudo /usr/local/mysql/support-files/mysql.server start
+sudo /usr/local/mysql/support-files/mysql.server stop
+sudo /usr/local/mysql/support-files/mysql.server start
+sudo /usr/local/mysql/support-files/mysql.server start
+/usr/local/mysql/bin/mysql -v
+/usr/local/mysql/bin/mysql -v
+sudo /usr/local/mysql/support-files/mysql.server start
+cd ; nano .bash_profile
+mysql -v
+cd ; nano .bash_profile
+echo %mysql%
+echo $mysql
+mysql -v
+sudo /usr/local/mysql/support-files/mysql.server start
+/usr/local/mysql/bin/mysql -v
+sudo /usr/local/mysql/bin/mysql -v
+cd ; nano .bash_profile
+mvn
+mvn -v
+mysql
+mysql -v
+source ~/.bash_profile
+mysql -v
+/usr/local/mysql/bin/mysqladmin -u root password '9999'
+/usr/local/mysql/bin/mysql -v
+mysql -u root
+mysqladmin -u root
+mysqladmin -u root password [9999]
+mysqladmin -u root password [coolers9999]
+mysqladmin -u root
+mysql -u root
+mysql -u root
+sudo /usr/local/mysql/support-files/mysql.server start
+mysqladmin -u root password [9999]
+mysql -u root
+mysql -u root
+mysql -u root
+sudo /usr/local/mysql/support-files/mysql.server start
+sudo
+sudo /usr/local/mysql/support-files/mysql.server start
+mysql
+ping
+ping  192.168.1.38
+sudo nmap localhost
+nmap 192.168.1.*
+nmap -O 192.168.2-14
+sudo nmap -O 192.168.2-14
+sudo nmap -O 192.168.*
+sudo nmap localhost
+ping  192.168.1.38
