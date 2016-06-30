@@ -11,7 +11,7 @@ public class Main {
         String FILE_NAME = "/Users/mikhail/Desktop/Лист1-Table 1.csv";
 //        String FILE_NAME = "/Users/mikhail/Desktop/Лист1-Table 1.csv";
 
-        long timestart = System.currentTimeMillis();
+        long STARTTIME = System.currentTimeMillis();
 
         try {
             Files.lines(Paths.get(FILE_NAME), StandardCharsets.UTF_8).forEach(System.out::println);
@@ -19,10 +19,10 @@ public class Main {
             e.printStackTrace();
         }
 
-        long timeend = System.currentTimeMillis();
+        long ENDTIME = System.currentTimeMillis();
         System.out.println();
         System.out.print("Time spent: ");
-        System.out.println(timeend-timestart + " mlsec");
+        System.out.println(ENDTIME-STARTTIME + " mlsec");
 
 
 
