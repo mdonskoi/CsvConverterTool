@@ -7,9 +7,9 @@ import java.nio.file.Paths;
 public class Main {
 
     public static void main(String[] args) {
-//        System.out.println("Hello World!");
+        
+        
         String FILE_NAME = "/Users/mikhail/Desktop/Лист1-Table 1.csv";
-//        String FILE_NAME = "/Users/mikhail/Desktop/Лист1-Table 1.csv";
 
         long STARTTIME = System.currentTimeMillis();
 
@@ -20,12 +20,11 @@ public class Main {
         }
 
         long ENDTIME = System.currentTimeMillis();
+        
         System.out.println();
         System.out.print("Time spent: ");
         System.out.println(ENDTIME-STARTTIME + " mlsec");
 
-
-
-
+        // TODO: 6/30/16 make CSV writer 
     }
 }
