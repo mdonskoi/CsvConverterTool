@@ -27,7 +27,13 @@ public class ReadCVS {
                 // use comma as separator
                 System.out.println(br.lines().count());
 
+
+
             }
+
+
+
+
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();

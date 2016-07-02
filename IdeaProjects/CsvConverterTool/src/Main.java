@@ -6,13 +6,15 @@ import java.nio.file.Paths;
 
 public class Main {
 
+    public static String FILE_NAME = "/Users/mikhail/Desktop/Лист1-Table 1.csv";
+
     private static int n = 0;
     private static String line;
 
     public static void main(String[] args) {
 
 
-        String FILE_NAME = "/Users/mikhail/Desktop/Лист1-Table 1.csv";
+
 
         try {
             BufferedReader br = new BufferedReader(new FileReader(FILE_NAME));
