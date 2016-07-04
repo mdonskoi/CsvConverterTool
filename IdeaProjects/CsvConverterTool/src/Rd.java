@@ -1,9 +1,6 @@
 import org.apache.commons.io.LineIterator;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.nio.charset.Charset;
 
 /**
@@ -13,13 +10,36 @@ public class Rd {
 
     public static void main(String[] args) throws IOException {
         InputStreamReader in = null;
+        OutputStreamWriter out = null;
         try {
             in = new InputStreamReader(new FileInputStream(new File(Main.FILE_NAME)), Charset.defaultCharset());
             LineIterator it = new LineIterator(in);
             while (it.hasNext()) {
+
                 System.out.println(it.nextLine());
                 System.out.println("---------------------------------------------------------------------");
             }
+          //  out = new OutputStreamWriter(new FileOutputStream(new File(Main.OUT_FILE_NAME)));
+
+//////////////////////////
+
+            try(FileWriter writer = new FileWriter(Main.OUT_FILE_NAME, false))
+            {
+
+                while (it.hasNext()) {
+// запись всей строки
+                    String text = it.nextLine() + "ffffff";
+                    writer.write(text);
+                }
+
+                writer.flush();
+            }
+            catch(IOException ex){
+
+                System.out.println(ex.getMessage());
+            }
+
+//////////////////////////////
         } catch (IOException e) {
             // log error
         } finally {

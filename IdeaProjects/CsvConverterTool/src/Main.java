@@ -7,6 +7,7 @@ import java.nio.file.Paths;
 public class Main {
 
     public static String FILE_NAME = "/Users/mikhail/Desktop/Лист1-Table 1.csv";
+    public static String OUT_FILE_NAME = "/Users/mikhail/Desktop/Лист1-Table 1111111.csv";
 
     private static int n = 0;
     private static String line;
