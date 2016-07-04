@@ -40,6 +40,27 @@ public class Rd {
             }
 
 //////////////////////////////
+
+
+            try(FileWriter writer = new FileWriter(Main.OUT_FILE_NAME, false))
+            {
+                // запись всей строки
+                String text = "Мама мыла раму, раму мыла мама";
+                writer.write(text);
+                // запись по символам
+                writer.append('\n');
+                writer.append('E');
+
+                writer.flush();
+            }
+            catch(IOException ex){
+
+                System.out.println(ex.getMessage());
+            }
+
+
+
+            //////////////////////////////////
         } catch (IOException e) {
             // log error
         } finally {
