@@ -19,7 +19,7 @@ public class Rd {
                 System.out.println(it.nextLine());
                 System.out.println("---------------------------------------------------------------------");
             }
-          //  out = new OutputStreamWriter(new FileOutputStream(new File(Main.OUT_FILE_NAME)));
+          out = new OutputStreamWriter(new FileOutputStream(new File(Main.OUT_FILE_NAME)));
 
 //////////////////////////
 
@@ -45,11 +45,17 @@ public class Rd {
             try(FileWriter writer = new FileWriter(Main.OUT_FILE_NAME, false))
             {
                 // запись всей строки
-                String text = "Мама мыла раму, раму мыла мама";
-                writer.write(text);
+               // String text = "Мама мыла раму, раму мыла мама";
+                String text1 = "TEXXXXXT";
+                for (int i = 0; i<100; i++) {
+                    text1 = text1 + "rrrr";
+                    String text = "Мама мыла раму, раму мыла мама";
+                    writer.write(text1);
+                    writer.append('\n');
+                    writer.append('E');
+                }// TODO: 7/5/16 correct the algorytm  
                 // запись по символам
-                writer.append('\n');
-                writer.append('E');
+
 
                 writer.flush();
             }
