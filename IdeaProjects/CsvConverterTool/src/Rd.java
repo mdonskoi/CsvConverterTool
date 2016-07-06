@@ -1,12 +1,21 @@
 import org.apache.commons.io.LineIterator;
 
+import javax.xml.crypto.Data;
 import java.io.*;
 import java.nio.charset.Charset;
 
-/**
- * Created by mikhail on 7/3/16.
- */
+
 public class Rd {
+
+    Data data;
+    String typeOfTransaction;
+    String account;
+    String category;
+    String subcategory;
+    String currency;
+    int total;
+
+
 
     public static void main(String[] args) throws IOException {
         InputStreamReader in = null;
