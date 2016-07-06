@@ -16,7 +16,6 @@ public class Rd {
     int total;
 
 
-
     public static void main(String[] args) throws IOException {
         InputStreamReader in = null;
         OutputStreamWriter out = null;
@@ -28,35 +27,17 @@ public class Rd {
                 System.out.println(it.nextLine());
                 System.out.println("---------------------------------------------------------------------");
             }
-          out = new OutputStreamWriter(new FileOutputStream(new File(Main.OUT_FILE_NAME)));
+            out = new OutputStreamWriter(new FileOutputStream(new File(Main.OUT_FILE_NAME)));
 
-//////////////////////////
-
-            try(FileWriter writer = new FileWriter(Main.OUT_FILE_NAME, false))
-            {
-
-                while (it.hasNext()) {
-// запись всей строки
-                    String text = it.nextLine() + "ffffff";
-                    writer.write(text);
-                }
-
-                writer.flush();
-            }
-            catch(IOException ex){
-
-                System.out.println(ex.getMessage());
-            }
 
 //////////////////////////////
 
 
-            try(FileWriter writer = new FileWriter(Main.OUT_FILE_NAME, false))
-            {
+            try (FileWriter writer = new FileWriter(Main.OUT_FILE_NAME, false)) {
                 // запись всей строки
-               // String text = "Мама мыла раму, раму мыла мама";
+                // String text = "Мама мыла раму, раму мыла мама";
                 String text1 = "TEXXXXXT";
-                for (int i = 0; i<100; i++) {
+                for (int i = 0; i < 100; i++) {
                     text1 = text1 + "rrrr";
                     String text = "Мама мыла раму, раму мыла мама";
                     writer.write(text1);
@@ -67,12 +48,10 @@ public class Rd {
 
 
                 writer.flush();
-            }
-            catch(IOException ex){
+            } catch (IOException ex) {
 
                 System.out.println(ex.getMessage());
             }
-
 
 
             //////////////////////////////////
