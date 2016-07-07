@@ -22,6 +22,9 @@ public class Rd {
 
         InputStreamReader in = null;
         OutputStreamWriter out = null;
+
+        long START = System.currentTimeMillis();
+
         try {
             in = new InputStreamReader(new FileInputStream(new File(Main.FILE_NAME)), Charset.defaultCharset());
             LineIterator it = new LineIterator(in);
@@ -30,11 +33,6 @@ public class Rd {
                 System.out.println(it.nextLine());
                 System.out.println("---------------------------------------------------------------------");
             }
-            out = new OutputStreamWriter(new FileOutputStream(new File(Main.OUT_FILE_NAME)));
-
-
-//////////////////////////////
-
 
             try (FileWriter writer = new FileWriter(Main.OUT_CSV_FILE_NAME, false)) {
                 // запись всей строки
@@ -84,6 +82,26 @@ public class Rd {
         } finally {
             in.close();
         }
+
+        try {
+            in = new InputStreamReader(new FileInputStream(new File(Main.OUT_CSV_FILE_NAME)), Charset.defaultCharset());
+            LineIterator it = new LineIterator(in);
+            while (it.hasNext()) {
+
+                System.out.println(it.nextLine());
+            }
+
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        } finally {
+            in.close();
+        }
+
+        long STOP = System.currentTimeMillis();
+        System.out.println("Time spent ");
+        System.out.println(STOP - START);
+        System.out.println(" mls");
+
     }
 
 }
