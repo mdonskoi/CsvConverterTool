@@ -7,16 +7,19 @@ import java.nio.charset.Charset;
 
 public class Rd {
 
-    Data data;
-    String typeOfTransaction;
-    String account;
-    String category;
-    String subcategory;
-    String currency;
-    int total;
-
 
     public static void main(String[] args) throws IOException {
+
+        Data data = null;
+        String typeOfTransaction = "typeOfTransaction";
+        String account = "account";
+        String category = "category";
+        String subcategory = "subcategory";
+        String currency = null;
+        String descriptoin = null;
+        String time = null;
+        int total = 0;
+
         InputStreamReader in = null;
         OutputStreamWriter out = null;
         try {
@@ -33,14 +36,35 @@ public class Rd {
 //////////////////////////////
 
 
-            try (FileWriter writer = new FileWriter(Main.OUT_FILE_NAME, false)) {
+            try (FileWriter writer = new FileWriter(Main.OUT_CSV_FILE_NAME, false)) {
                 // запись всей строки
-                // String text = "Мама мыла раму, раму мыла мама";
                 String text1 = "TEXXXXXT";
                 for (int i = 0; i < 100; i++) {
                     text1 = text1 + "rrrr";
                     String text = "Мама мыла раму, раму мыла мама";
-                    writer.write(text1);
+                    String CsvText = new StringBuilder()
+                            .append(account)
+                            .append(",")
+                            .append(total)
+                            .append(",")
+                            .append(account)
+                            .append(",")
+                            .append("transfer")
+                            .append(",")
+                            .append(descriptoin)
+                            .append(",")
+                            .append(category)
+                            .append(">")
+                            .append(subcategory)
+                            .append(",")
+                            .append(/*data*/ System.currentTimeMillis())
+                            .append(",")
+                            .append(time)
+                            .append(",")
+                            .append(total)
+                            .append(",")
+                            .append(currency).toString();
+                    writer.write(CsvText);
                     writer.append('\n');
                     writer.append('E');
                 }// TODO: 7/5/16 correct the algorytm  
