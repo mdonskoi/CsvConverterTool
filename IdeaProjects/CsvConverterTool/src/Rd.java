@@ -16,7 +16,7 @@ public class Rd {
         String category = "category";
         String subcategory = "subcategory";
         String currency = null;
-        String descriptoin = null;
+        String description = null;
         String time = null;
         int total = 0;
 
@@ -49,7 +49,7 @@ public class Rd {
                             .append(",")
                             .append("transfer")
                             .append(",")
-                            .append(descriptoin)
+                            .append(description)
                             .append(",")
                             .append(category)
                             .append(">")
@@ -98,8 +98,8 @@ public class Rd {
         }
 
         long STOP = System.currentTimeMillis();
-        System.out.println("Time spent ");
-        System.out.println(STOP - START);
+        System.out.print("Time spent: ");
+        System.out.print(STOP - START);
         System.out.println(" mls");
 
     }

@@ -16,8 +16,6 @@ public class Main {
     public static void main(String[] args) {
 
 
-
-
         try {
             BufferedReader br = new BufferedReader(new FileReader(FILE_NAME));
 
@@ -47,33 +45,6 @@ public class Main {
             e.printStackTrace();
         }
 
-
-        ///////////////
-
-        try {
-
-            String content = line;
-
-            File file = new File("/Users/mikhail/Desktop/Лист1-Table 11111.csv");
-
-            // if file doesnt exists, then create it
-            if (!file.exists()) {
-                file.createNewFile();
-            }
-
-            FileWriter fw = new FileWriter(file.getAbsoluteFile());
-            BufferedWriter bw = new BufferedWriter(fw);
-
-            bw.write(content);
-            bw.close();
-
-            System.out.println(" Write Done");
-
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        ////////////
 
         long ENDTIME = System.currentTimeMillis();
 
