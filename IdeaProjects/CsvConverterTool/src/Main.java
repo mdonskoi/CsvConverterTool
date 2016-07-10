@@ -36,7 +36,7 @@ public class Main {
             BufferedReader br = new BufferedReader(new FileReader(FILE_NAME));
             while (br.lines().count() != 0) {
                 line = br.readLine();
-                System.out.println(br.lines() + "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+                System.out.println(br.lines() + "!!!!!!!!");
             }
 
         } catch (FileNotFoundException e) {
@@ -53,8 +53,5 @@ public class Main {
         System.out.println(n + " lines");
         System.out.print("Time spent: ");
         System.out.println(ENDTIME - STARTTIME + " mlsec");
-
-
-        // TODO: 6/30/16 make CSV writer
     }
 }

@@ -75,8 +75,6 @@ public class Rd {
                 System.out.println(ex.getMessage());
             }
 
-
-            //////////////////////////////////
         } catch (IOException e) {
             // log error
         } finally {
