@@ -9,17 +9,20 @@ public class Rd {
 
     public static void main(String[] args) throws IOException {
 
-        String account = "Account";
-        String transfers = "Transfers";
-        String description = "Description";
-        String payee = "Payee";
-        String category = "Category";
-        String date = "Date";
-        String time = "Time";
-        String memo = "Memo";
-        String amount = "Amount";
-        String currency = "Currency";
-        String checkNumber = "Check #";
+        String account = "\"Account\"";
+        String transfers = "\"Transfers\"";
+        String description = "\"Description\"";
+        String payee = "\"Payee\"";
+        String category = "\"Category\"";
+        String date = "\"Date\"";
+        String time = "\"Time\"";
+        String memo = "\"Memo\"";
+        String amount = "\"Amount\"";
+        String currency = "\"Currency\"";
+        String checkNumber = "\"Check #\"";
+
+        int lineCounter = 0;
+        int lineCounterForOutputCSVFile = 0;
 
 
         InputStreamReader in = null;
@@ -30,18 +33,36 @@ public class Rd {
         try {
             in = new InputStreamReader(new FileInputStream(new File(Main.FILE_NAME)), Charset.defaultCharset());
             LineIterator it = new LineIterator(in);
-            while (it.hasNext()) {
+           /* while (it.hasNext()) {
+                lineCounter+=1;
+
+                System.out.print(lineCounter+ " ");
 
                 System.out.println(it.nextLine());
-                System.out.println("---------------------------------------------------------------------");
+              //  System.out.println("---------------------------------------------------------------------");
+
+            */
+
+            for (int i=0; i<=lineCounter; i++) {
+                System.out.println(lineCounter);
+                while (it.hasNext()) {
+                    lineCounter += 1;
+
+                    System.out.print(lineCounter + " ");
+
+                    System.out.println(it.nextLine());
+                }
             }
 
             try (FileWriter writer = new FileWriter(Main.OUT_CSV_FILE_NAME, false)) {
                 // запись всей строки
+
+                System.out.println();
                 String text1 = "TEXXXXXT";
-                for (int i = 0; i < 100; i++) {
+                for (int j = 0; j <= lineCounter; j++) {
+                    lineCounterForOutputCSVFile+=1;
                     text1 = text1 + "rrrr";
-                    String CsvText = new StringBuilder()
+                    String CsvText = new StringBuilder().append(lineCounterForOutputCSVFile).append(" ")
                             .append(account)
                             .append(",")
                             .append(transfers)
@@ -65,8 +86,7 @@ public class Rd {
                             .append(checkNumber).toString();
                     writer.write(CsvText);
                     writer.append('\n');
-                    writer.append('E');
-                }// TODO: 7/5/16 correct the algorytm  
+                }// TODO: 7/5/16 correct the algorytm
                 // запись по символам
 
 
