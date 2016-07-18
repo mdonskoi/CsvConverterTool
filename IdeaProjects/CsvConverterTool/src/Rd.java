@@ -1,6 +1,5 @@
 import org.apache.commons.io.LineIterator;
 
-import javax.xml.crypto.Data;
 import java.io.*;
 import java.nio.charset.Charset;
 
@@ -10,15 +9,18 @@ public class Rd {
 
     public static void main(String[] args) throws IOException {
 
-        Data data = null;
-        String typeOfTransaction = "typeOfTransaction";
-        String account = "account";
-        String category = "category";
-        String subcategory = "subcategory";
-        String currency = null;
-        String description = null;
-        String time = null;
-        int total = 0;
+        String account = "Account";
+        String transfers = "Transfers";
+        String description = "Description";
+        String payee = "Payee";
+        String category = "Category";
+        String date = "Date";
+        String time = "Time";
+        String memo = "Memo";
+        String amount = "Amount";
+        String currency = "Currency";
+        String checkNumber = "Check #";
+
 
         InputStreamReader in = null;
         OutputStreamWriter out = null;
@@ -39,29 +41,28 @@ public class Rd {
                 String text1 = "TEXXXXXT";
                 for (int i = 0; i < 100; i++) {
                     text1 = text1 + "rrrr";
-                    String text = "Мама мыла раму, раму мыла мама";
                     String CsvText = new StringBuilder()
                             .append(account)
                             .append(",")
-                            .append(total)
-                            .append(",")
-                            .append(account)
-                            .append(",")
-                            .append("transfer")
+                            .append(transfers)
                             .append(",")
                             .append(description)
                             .append(",")
+                            .append(payee)
+                            .append(",")
                             .append(category)
+                            .append(",")
+                            .append(date)
                             .append(">")
-                            .append(subcategory)
-                            .append(",")
-                            .append(/*data*/ System.currentTimeMillis())
-                            .append(",")
                             .append(time)
                             .append(",")
-                            .append(total)
+                            .append(memo)
                             .append(",")
-                            .append(currency).toString();
+                            .append(amount)
+                            .append(",")
+                            .append(currency)
+                            .append(",")
+                            .append(checkNumber).toString();
                     writer.write(CsvText);
                     writer.append('\n');
                     writer.append('E');
