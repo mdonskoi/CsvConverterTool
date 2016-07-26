@@ -1,4 +1,4 @@
-public class Main {
+```java public class Main {
 
     public static String FILE_NAME = "/Users/mikhail/Desktop/Лист1-Table 1.csv";
     public static String OUT_FILE_NAME = "/Users/mikhail/Desktop/Лист1-Table 1111111.csv";
@@ -47,4 +47,4 @@ public class Main {
         System.out.print("Time spent: ");
         System.out.println(ENDTIME - STARTTIME + " mlsec");
     }*/
-}
+}```
